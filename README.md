@@ -32,10 +32,12 @@ This project leverages advanced deep-learning methodologies, including YOLOv8 ar
 - **Data Preparation**:
   - Data extraction and filtering.
   - Table detection using YOLOv8 and DeepDoctection.
+  ![image](https://github.com/user-attachments/assets/38f52f98-b403-4e4c-b259-89e242b232ec)
   - Data conversion for model compatibility.
 - **Challenges**: Addressing data inconsistency, noise, and document complexity.
 
 ---
+![image](https://github.com/user-attachments/assets/bb2e2f28-1802-4c86-9577-1c342f1779c1)
 
 ### 3. Modeling
 - **Model Selection**:
@@ -44,8 +46,12 @@ This project leverages advanced deep-learning methodologies, including YOLOv8 ar
   - Decision-Making Models: ARIMA, SARIMA, Linear Regression.
 - **Model Evaluation**:
   - Performance metrics including accuracy, precision, error rate, and processing speed.
+  ![image](https://github.com/user-attachments/assets/f401d9c3-b1c7-4cbe-a0c8-04fd776c5277)
+
 - **Chatbot Integration**:
   - Using Langchain for document submission, prompt generation, and result visualization.
+![image](https://github.com/user-attachments/assets/05a70e55-3799-4ef6-bdaf-0b8e92a5e161)
+
 
 ---
 
@@ -61,6 +67,7 @@ This project leverages advanced deep-learning methodologies, including YOLOv8 ar
   - Deployment of chatbot for interaction.
 - **Monitoring and Maintenance**:
   - Regular updates for continuous improvement and system reliability.
+![image](https://github.com/user-attachments/assets/99687db3-4762-4522-b508-5518ab720cce)
 
 ---
 
